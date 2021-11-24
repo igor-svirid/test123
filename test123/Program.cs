@@ -11,6 +11,8 @@ namespace test123
             object o = i;
             long l = (long)o;
             Console.Write(l);
+            Console.Write(l);
+
             Console.ReadKey();
         }
     }
